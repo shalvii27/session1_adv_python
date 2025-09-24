@@ -3,3 +3,4 @@
 3) matplotlib
 4)seaborn
 5)sci-kitlearn
+wertuio fghj wertyui
